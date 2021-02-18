@@ -1,0 +1,11 @@
+@import 'base/variables';
+* {
+    font-family: 'MuseoModerno', cursive;
+}
+.container {
+    max-width: 950px;
+    margin: 0 auto;
+}
+@import 'blocks/promo.scss';
+@import 'blocks/header.scss';
+@import 'blocks/buttons.scss';
